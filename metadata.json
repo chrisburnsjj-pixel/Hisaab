@@ -1,0 +1,6 @@
+{
+  "name": "Hisaab",
+  "description": "Mobile income and expense tracker with Firebase Authentication, transaction logging, categories, and personal finance management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
